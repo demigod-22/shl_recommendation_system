@@ -32,9 +32,9 @@ def load_data_and_model():
 # ------------------------------------------------
 # Initialize app
 # ------------------------------------------------
-st.set_page_config(page_title="SHL Assessment Recommender", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="SHL Assessment Recommender", layout="wide")
 
-st.title("🧠 SHL Assessment Recommendation System")
+st.title(" SHL Assessment Recommendation System")
 st.write("Enter a job description or query to get the most relevant SHL assessments.")
 
 df, model, index = load_data_and_model()
