@@ -1,0 +1,4 @@
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Received query: Looking for a short adaptive Python coding test
+INFO:root:Processed query in 1.02s, returning 10 results
